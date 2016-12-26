@@ -13,7 +13,7 @@ package com.example.liubeibei.myapplication;
 
 
 public class MainActivity extends AppCompatActivity {
-
+    private String name = "ddd";
     private TextView text;
 
     @Override
