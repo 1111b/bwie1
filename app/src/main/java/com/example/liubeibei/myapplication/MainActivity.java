@@ -15,7 +15,8 @@ package com.example.liubeibei.myapplication;
 public class MainActivity extends AppCompatActivity {
 
     private TextView text;
-
+    int sa;
+    private String  n = "我添加了数据";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
