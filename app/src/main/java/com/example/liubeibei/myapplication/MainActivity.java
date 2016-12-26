@@ -13,7 +13,7 @@ package com.example.liubeibei.myapplication;
 
 
 public class MainActivity extends AppCompatActivity {
-
+    private String name = "ddd";
     private TextView text;
     int sa;
     private String  n = "我添加了数据";
